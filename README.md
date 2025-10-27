@@ -39,24 +39,13 @@
 
 </div>
 
----
-
-## 🌟 Projetos em Destaque
-
-| 🚀 Projeto | 💬 Descrição | 🧩 Tecnologias |
-|-------------|--------------|----------------|
-| [Nome do Projeto 1](#) | Breve descrição do projeto | Java, MySQL |
-| [Nome do Projeto 2](#) | Breve descrição do projeto | HTML, CSS, JS |
-| [Nome do Projeto 3](#) | Breve descrição do projeto | MongoDB, AWS |
-
----
 
 ## 📫 Contato
 
 <p align="center">
   📷 <a href="#" target="_blank">Instagram</a>  
   •  
-  📧 <a href="mailto:seu.email@email.com">E-mail</a>
+  📧 <a href="mailto:mauricioestudos268@gmail.com">E-mail</a>
 </p>
 
 ---
