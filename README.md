@@ -1,30 +1,41 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome]!</h1>
+<!-- Banner ou Título -->
+<h1 align="center">✨ Bem-vindo ao meu perfil do GitHub! ✨</h1>
 
 <p align="center">
-  🎓 Estudante do <b>Ensino Médio</b> | 💻 Técnico em <b>Desenvolvimento de Sistemas</b> <br>
-  🚀 Apaixonado por tecnologia, código e inovação!
+  <b>Olá! Eu sou [Seu Nome]</b> 👋 <br>
+  🎓 Estudante do <b>Ensino Médio</b> e do curso técnico em <b>Desenvolvimento de Sistemas</b>. <br>
+  💻 Entusiasta da tecnologia e apaixonado por aprender e criar soluções digitais!
 </p>
 
 ---
 
-## 💫 Sobre mim
+## 👨‍💻 Sobre Mim
 
-- 📚 Atualmente me especializando em **Desenvolvimento Full Stack**  
-- 💡 Gosto de aprender novas linguagens e criar projetos que fazem a diferença  
-- ☁️ Tenho interesse em **AWS**, **bancos de dados** e **boas práticas de programação**  
-- 🎯 Objetivo: evoluir como desenvolvedor e construir soluções criativas  
+- 🌱 Atualmente aprendendo e me aprofundando em **Java**, **JavaScript** e **desenvolvimento web**.  
+- ☁️ Estudando **AWS** e práticas de **banco de dados** com **MySQL** e **MongoDB**.  
+- 🧠 Foco em construir uma base sólida em **lógica de programação** e **boas práticas de código**.  
+- 🚀 Sonho em me tornar um desenvolvedor full stack e contribuir para grandes projetos.  
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧰 Minhas Habilidades
 
 <div align="center">
 
-| 💻 Linguagens | 🧰 Ferramentas | 🗄️ Bancos de Dados |
-|:--------------:|:---------------:|:-------------------:|
-| Java ☕ | AWS ☁️ | MySQL 🐬 |
-| JavaScript ⚡ | Postman 💌 | MongoDB 🍃 |
-| HTML5 & CSS3 🎨 | VS Code 💻 |  |
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Ferramentas e Plataformas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -32,29 +43,28 @@
 
 ## 🌟 Projetos em Destaque
 
-| 🚧 Projeto | 💬 Descrição | 🧩 Tecnologias |
+| 🚀 Projeto | 💬 Descrição | 🧩 Tecnologias |
 |-------------|--------------|----------------|
 | [Nome do Projeto 1](#) | Breve descrição do projeto | Java, MySQL |
-| [Nome do Projeto 2](#) | Breve descrição do projeto | JS, HTML, CSS |
+| [Nome do Projeto 2](#) | Breve descrição do projeto | HTML, CSS, JS |
 | [Nome do Projeto 3](#) | Breve descrição do projeto | MongoDB, AWS |
 
 ---
 
-## 📬 Contato
+## 📫 Contato
 
 <p align="center">
-  📷 <a href="#" target="_blank">Instagram</a> •  
+  📷 <a href="#" target="_blank">Instagram</a>  
+  •  
   📧 <a href="mailto:seu.email@email.com">E-mail</a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <i>“A melhor forma de prever o futuro é criá-lo.” – Peter Drucker</i> ✨
+  🌟 “O sucesso é a soma de pequenos esforços repetidos dia após dia.” 🌟
 </p>
 
----
-
 <p align="center">
-  🌈 Feito com ❤️ e muito ☕ por <b>[Seu Nome]</b>
+  Feito com ❤️ por <b>[Seu Nome]</b>
 </p>
