@@ -2,7 +2,7 @@
 <h1 align="center">✨ Bem-vindo ao meu perfil do GitHub! ✨</h1>
 
 <p align="center">
-  <b>Olá! Eu sou [Seu Nome]</b> 👋 <br>
+  <b>Olá! Eu sou Mauricio Nascimento Pereira</b> 👋 <br>
   🎓 Estudante do <b>Ensino Médio</b> e do curso técnico em <b>Desenvolvimento de Sistemas</b>. <br>
   💻 Entusiasta da tecnologia e apaixonado por aprender e criar soluções digitais!
 </p>
