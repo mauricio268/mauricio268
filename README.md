@@ -39,11 +39,12 @@
 
 </div>
 
+---
 
 ## 📫 Contato
 
 <p align="center">
-  📷 <a href="#" target="mauricio__np">Instagram</a>  
+  📷 <a href="https://www.instagram.com/mauricio__np/" target="_blank">Instagram</a>  
   •  
   📧 <a href="mailto:mauricioestudos268@gmail.com">E-mail</a>
 </p>
@@ -55,5 +56,5 @@
 </p>
 
 <p align="center">
-  Feito com ❤️ por <b>[Seu Nome]</b>
+  Feito com ❤️ por <b>Mauricio Nascimento Pereira</b>
 </p>
