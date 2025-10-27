@@ -43,7 +43,7 @@
 ## 📫 Contato
 
 <p align="center">
-  📷 <a href="#" target="_blank">Instagram</a>  
+  📷 <a href="#" target="mauricio__np">Instagram</a>  
   •  
   📧 <a href="mailto:mauricioestudos268@gmail.com">E-mail</a>
 </p>
